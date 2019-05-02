@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+*/__pycache__/
+log/
+venv/
+chromedriver.exe
+*/chromedriver.exe
+geckodriver.log
+*/geckodriver.log
+*.pyc
+*/*.pyc

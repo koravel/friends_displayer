@@ -1,0 +1,19 @@
+{
+    "logging": {
+        "logger_files_max": 10,
+        "loggers": [
+            {
+                "destination": "",
+                "is_enabled": true,
+                "log_level": 6,
+                "type": "console"
+            }
+        ]
+    },
+    "selenuim": {
+        "driver_location": "./env/chromedriver.exe",
+        "actions_delay": 1,
+        "email": "ignisaeraquaterraordoperditio@gmail.com",
+        "password": "HfRHG1344446sjwd/'1IOstFE;iubg45d"
+    }
+}
